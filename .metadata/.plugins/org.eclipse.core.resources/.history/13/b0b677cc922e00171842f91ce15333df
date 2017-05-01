@@ -1,0 +1,5 @@
+package com.apsdn.dao;
+
+public class CustomerDao {
+
+}
